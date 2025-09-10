@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: #1F1F1F;
+    text-align: center;
+}
+
+#app {
+    display: block;
+    border-radius: 14px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #181818;
+}
